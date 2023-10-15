@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primeiroapp</string>
+    <string name="primeirotexto">My first Kotling app at Android Studio.</string>
+</resources>

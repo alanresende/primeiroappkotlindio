@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">primeiroapp</string>
+    <string name="primeirotexto">Meu primeiro app Kotlin no Android Studio</string>
+</resources>
